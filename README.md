@@ -32,5 +32,7 @@ Some files from the parallel repository (e.g., `pcgpc`, `pcgL1`, `DWT`) are need
 
 For any issues or questions, feel free to open an issue in this repository.
 
+## Gap size 2, SNR 10
 ![Gap size 2 snr 10](gap_size_2_snr10.jpg)
+## Gap size 3, SNR 10
 ![Gap size 3 snr 10](gap_size_3_snr10.jpg)
