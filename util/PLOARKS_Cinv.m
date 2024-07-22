@@ -1,4 +1,6 @@
 function mat = PLOARKS_Cinv(data, k, shape)
+% Author: Zimu Huo
+% Date: 2024-01-02
     ny = shape(1);
     nx = shape(2);
     nz = shape(3);

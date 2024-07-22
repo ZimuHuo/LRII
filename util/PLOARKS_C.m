@@ -1,4 +1,6 @@
 function mat = PLOARKS_C(data, k)
+% Author: Zimu Huo
+% Date: 2024-01-02
     [ny, nx, nz, nc] = size(data);
     %data = permute(data, [4, 1, 2, 3]);
     mat = complex(zeros([(ny-k+1)*(nx-k+1)*(nz-k+1), k * k * k * nc]));

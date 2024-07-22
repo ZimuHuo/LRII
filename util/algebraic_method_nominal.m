@@ -1,4 +1,6 @@
 function filled_zte_data = algebraic_method_nominal(unfilled_zte_data, nominal_gap,  oversampled_gap, nRO, nTR)
+% Author: Zimu Huo
+% Date: 2024-01-02
 unfilled_zte_data = reshape(unfilled_zte_data, nRO, nTR, []);
 [nRO, nTR, nc] = size(unfilled_zte_data);
 l = nRO * 2- 1; 

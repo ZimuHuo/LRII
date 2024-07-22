@@ -1,5 +1,7 @@
 
 function approx = rank_approxthres(data, thres)
+% Author: Zimu Huo
+% Date: 2024-01-02
     [U, S, VT] = svd(data, 'econ');
     s = diag(S);
     s = s ./ max(s(:));

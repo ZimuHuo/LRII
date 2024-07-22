@@ -1,4 +1,6 @@
 function [brain] = get_brain_phantom(TE)
+% Author: Zimu Huo
+% Date: 2024-01-02
     [tissues, tissuetype, T2] = get_tissue_images();
     [ny, nx, nz, nt] = size(tissues);
     ideal_image = zeros([ny, nx, nz]);

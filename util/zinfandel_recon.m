@@ -1,4 +1,6 @@
 function [zinfandel_data] = zinfandel_recon(zinfandel_data, traj, gap, nk, nl, ns)
+% Author: Zimu Huo
+% Date: 2024-01-02
 if nargin < 3
     nk = 5;
 end

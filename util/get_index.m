@@ -1,4 +1,6 @@
 function a = get_index(a_index, a_length)
+% Author: Zimu Huo
+% Date: 2024-01-02
     % Initialize the sequence with the first value
     a = [1];
 

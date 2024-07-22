@@ -1,5 +1,7 @@
 
 function inspect_rank(data, rank)
+% Author: Zimu Huo
+% Date: 2024-01-02
     [U,S,VT] = svdsecon(data, rank);
     s = diag(S);
     s = s ./ max(s(:));
