@@ -20,11 +20,6 @@ An implementation of ZINFANDEL is included in this repository. The original vers
 ### Parallel MATLAB Files
 Some files from the parallel repository (e.g., `pcgpc`, `pcgL1`, `DWT`) are needed. They can be found [here](https://github.com/marcsous/parallel).
 
-## Installation and Setup
-1. Download the required repositories and scripts as mentioned above.
-2. Place the NUFFT operators folder in this directory.
-3. Ensure that the required parallel MATLAB files are in the MATLAB path.
-4. Follow the installation instructions for BART if using ESPIRiT.
 
 For any issues or questions, feel free to open an issue in this repository.
 
