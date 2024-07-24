@@ -2,7 +2,6 @@
 
 # 3D Simulation of ZTE Dead-Time Gap Infilling
 
-This repository contains a full 3D simulation of the ZTE dead-time gap infilling.
 
 ## Methods and Dependencies
 
