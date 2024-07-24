@@ -17,9 +17,6 @@ You may also need to install BART for ESPIRiT. Installation instructions can be 
 ### ZINFANDEL
 An implementation of ZINFANDEL is included in this repository. The original version can be found [here](https://github.com/spinicist/riesling).
 
-### NUFFT Operators
-NUFFT operators were downloaded from [nufft_3d](https://github.com/marcsous/nufft_3d). No installation is needed; simply place the folder under this directory, and it should work.
-
 ### Parallel MATLAB Files
 Some files from the parallel repository (e.g., `pcgpc`, `pcgL1`, `DWT`) are needed. They can be found [here](https://github.com/marcsous/parallel).
 
