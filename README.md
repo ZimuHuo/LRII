@@ -1,6 +1,6 @@
 # LRII
 
-Credit should also be given to Dr. Tobias Wood, who has been experimenting with the low-rank method. Although his work has not yet been published, I was unaware of it at the time of my paper submission.
+Credit should also be given to Dr. Tobias Wood, who has been experimenting with the low-rank method. His work has not yet been published and I was unaware of it at the time of my paper submission.
 
 # 3D Simulation of ZTE Dead-Time Gap Infilling
 
